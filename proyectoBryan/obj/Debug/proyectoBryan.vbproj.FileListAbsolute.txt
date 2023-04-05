@@ -1,0 +1,17 @@
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.vbproj.AssemblyReference.cache
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.Form1.resources
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.Resources.resources
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.vbproj.GenerateResource.cache
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.vbproj.CoreCompileInputs.cache
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\proyectoBryan.exe.config
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\proyectoBryan.exe
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\proyectoBryan.pdb
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\proyectoBryan.xml
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\ClassLibrary1.dll
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\ClassLibrary1.pdb
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\bin\Debug\ClassLibrary1.xml
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.vbproj.CopyComplete
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.exe
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.xml
+C:\Users\Humano\source\repos\proyectoBryan\proyectoBryan\obj\Debug\proyectoBryan.pdb
